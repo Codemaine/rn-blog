@@ -1,4 +1,3 @@
-import HomeStack from './HomeStack'
-import SingleStack from './SingleStack'
+import { HomeStack, SingleStack } from './HomeStack'
 
 export { HomeStack, SingleStack }
